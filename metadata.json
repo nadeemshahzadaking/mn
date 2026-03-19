@@ -1,0 +1,5 @@
+{
+  "name": "Live Pro IDE v4",
+  "description": "A professional VS Code-like IDE with nested folders, multi-tabs, search/replace, theme switcher, and persistent floating preview.",
+  "requestFramePermissions": []
+}
